@@ -18,12 +18,19 @@ The sum of total import values.
 The difference between the sum of export and import values as ‘Trade balance’.
 Now, Join  'revised_final" table with the 'country_final' table  & filter the result to select the peak countries with the highest trade balance.
 
-Output : /Users/anujkhadka/Downloads/Individual/images/1.png
+Output : <img width="725" alt="1" src="https://github.com/Ujjwalkhadka47/Individual_Spark_Project_Fuse/assets/141219631/3c443b7a-a0bc-4647-819f-752cf5959a4e">
+
 
 
 Q.2 Show the comparative study of the average transactions of 'account' column (export & import) for different product types (Goods & Services) from 2020 to 2023 combined in a table and show it in columns using Pivot DataFrame Transformations.
 
-Output1 : /Users/anujkhadka/Downloads/Individual/images/2a.png
-Output2 : /Users/anujkhadka/Downloads/Individual/images/2b.png
-Output3 : /Users/anujkhadka/Downloads/Individual/images/2c.png
-Output4 : /Users/anujkhadka/Downloads/Individual/images/2d.png
+Output1 : <img width="820" alt="2a" src="https://github.com/Ujjwalkhadka47/Individual_Spark_Project_Fuse/assets/141219631/1c8c0078-7794-4b53-9a1f-d09592ecf4cf">
+
+
+Output2 : <img width="820" alt="2b" src="https://github.com/Ujjwalkhadka47/Individual_Spark_Project_Fuse/assets/141219631/fad8b398-6792-4f41-b837-07df8795a0d0">
+
+
+Output3 : <img width="820" alt="2c" src="https://github.com/Ujjwalkhadka47/Individual_Spark_Project_Fuse/assets/141219631/bcaf8d14-90ef-4c47-82dd-c18525d30cf9">
+
+
+Output4 : <img width="820" alt="2d" src="https://github.com/Ujjwalkhadka47/Individual_Spark_Project_Fuse/assets/141219631/60c3f6ad-f9c1-4c6c-8eb6-831881bdd9b2">
